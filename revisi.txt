@@ -1,0 +1,7 @@
+- kode buku harusnya saat diinput tidak boleh sama kode [DONE]
+- dashboard anggota ditambahkan riwayat jumlah buku yang pernah dipinjam
+- kode pembelian harusnya otomatis [DONE]
+- kode peminjaman harusnya tidak boleh diedit [DONE]
+- status harusnya 1 arah saja, sekali diklik selesai, dibagian detail juga otomatis selesai
+- sirkulasi data transaksi tidak boleh di delete [DONE]
+- denda untuk anggota yang terlambat mengembalikan buku
